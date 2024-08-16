@@ -20,3 +20,4 @@
 | 영상 | 구분 | 영상 Link |
 | :-- | :--: | :--: |
 |The True Story of How GPT-2 Became Maximally Lewd| LLM |<a href="https://youtu.be/qV_rOlHjvvs?si=D0IRBm0BnePHCMur"><img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/572/small/youtube-logo-youtube-icon-transparent-free-png.png" alt="youtube_logo" width="40"/></a>|
+|이해, 생성, 효율: 세 마리 토끼 다 잡는 Seq2Seq HyperCLOVA| LLM |<a href="https://youtu.be/upL76wu1EVQ?si=ihheXsXoNbxIL3rN"><img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/572/small/youtube-logo-youtube-icon-transparent-free-png.png" alt="youtube_logo" width="40"/></a>|
