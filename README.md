@@ -16,7 +16,7 @@
 | 머신러닝을 위한 수학 | 🐣 | `머신러닝` `딥러닝` |  [![notion link](https://cdn.iconscout.com/icon/free/png-512/free-notion-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-1911999.png?f=webp&w=30)](https://temporal-willow-a60.notion.site/491d0c0794fb404796843f0e2f9b9b2e?pvs=4) |
 | Machine Learning Wth Pytorch and Scikit-learn | 🪹 | `머신러닝` `딥러닝` |  |
 | MLOps 실전 가이드 | 🪹 | `MLOps` | |
-| 머신러닝 엔지니어링 | 🪹 | `MLOps` |  [![notion link](https://cdn.iconscout.com/icon/free/png-512/free-notion-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-1911999.png?f=webp&w=30)]([https://temporal-willow-a60.notion.site/491d0c0794fb404796843f0e2f9b9b2e?pvs=4](https://temporal-willow-a60.notion.site/0b10895487004a4d8e93512d8b8787fd?pvs=4)) |
+| 머신러닝 엔지니어링 | 🪹 | `MLOps` |  [![notion link](https://cdn.iconscout.com/icon/free/png-512/free-notion-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-1911999.png?f=webp&w=30)](https://temporal-willow-a60.notion.site/0b10895487004a4d8e93512d8b8787fd?pvs=4) |
 
 ## Youtube Log
 
