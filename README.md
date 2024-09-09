@@ -31,3 +31,4 @@
 | 문서 | 구분 | 링크 |
 | :-- | :--: | :--: |
 | Design Considerations For Model Deployment Systems | ML Engineer | [📄](https://www.bentoml.com/blog/ml-requirements) |
+| Feast Feature Store  | MLOps | [📄](https://medium.com/@ongxuanhong/mlops-03-feast-feature-store-an-in-depth-overview-experimentation-and-application-in-tabular-b9d1c5376483) |
