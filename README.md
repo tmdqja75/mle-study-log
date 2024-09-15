@@ -26,6 +26,7 @@
 |이해, 생성, 효율: 세 마리 토끼 다 잡는 Seq2Seq HyperCLOVA| LLM |<a href="https://youtu.be/upL76wu1EVQ?si=ihheXsXoNbxIL3rN"><img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/572/small/youtube-logo-youtube-icon-transparent-free-png.png" alt="youtube_logo" width="40"/></a>|
 |Building LLMs from the Ground Up: A 3-hour Coding Workshop| LLM |<a href="https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up"><img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/572/small/youtube-logo-youtube-icon-transparent-free-png.png" alt="youtube_logo" width="40"/></a>|
 |MLOps Model Serving Architecture with BentoML 김성렬| MLOps |<a href="https://youtu.be/2AjVDjR0jLM?si=0EJKen_gwNGN3Mkb"><img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/572/small/youtube-logo-youtube-icon-transparent-free-png.png" alt="youtube_logo" width="40"/></a>|
+| Word Embeddings: TF-IDF | NLP |<a href="https://youtu.be/x1u5TotQ0G0?si=7kKHbhEFow7Ves5w"><img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/572/small/youtube-logo-youtube-icon-transparent-free-png.png" alt="youtube_logo" width="40"/></a>|
 
 ## 관련 문서
 | 문서 | 구분 | 링크 |
