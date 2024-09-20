@@ -36,4 +36,5 @@
 | Feast Feature Store  | MLOps | [📄](https://medium.com/@ongxuanhong/mlops-03-feast-feature-store-an-in-depth-overview-experimentation-and-application-in-tabular-b9d1c5376483) |
 | MLOps Checklist – 10 Best Practices  | MLOps | [📄](https://neptune.ai/blog/mlops-best-practices) |
 | Machine Learning Topics Visually Explained  | Machine Learning | [📄](https://mlu-explain.github.io) |
+| 네카라쿠배는 생성형 AI를 어떻게 쓰고 있을까? | Machine Learning | [📄](https://app.dalpha.so/blog/ai-usecase-tech/?utm_source=kakao&utm_medium=founders&utm_campaign=insight) |
 
