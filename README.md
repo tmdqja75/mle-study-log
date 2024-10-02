@@ -29,6 +29,7 @@
 |MLOps Model Serving Architecture with BentoML 김성렬| MLOps |<a href="https://youtu.be/2AjVDjR0jLM?si=0EJKen_gwNGN3Mkb"><img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/572/small/youtube-logo-youtube-icon-transparent-free-png.png" alt="youtube_logo" width="40"/></a>|
 | Word Embeddings: TF-IDF | NLP |<a href="https://youtu.be/x1u5TotQ0G0?si=7kKHbhEFow7Ves5w"><img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/572/small/youtube-logo-youtube-icon-transparent-free-png.png" alt="youtube_logo" width="40"/></a>|
 | 추천시스템 성장 일지: 데이터 엔지니어 편 | Data Engineer |<a href="https://www.youtube.com/watch?v=x49PqlAQC3U"><img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/572/small/youtube-logo-youtube-icon-transparent-free-png.png" alt="youtube_logo" width="40"/></a>|
+| Choosing Embedding Models for RAG Applications | LLM |<a href="https://www.youtube.com/watch?v=qQ8HNRHRRQw"><img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/572/small/youtube-logo-youtube-icon-transparent-free-png.png" alt="youtube_logo" width="40"/></a>|
 
 ## 관련 문서
 | 문서 | 구분 | 링크 |
