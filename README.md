@@ -41,5 +41,5 @@
 | 네카라쿠배는 생성형 AI를 어떻게 쓰고 있을까? | Machine Learning | [📄](https://app.dalpha.so/blog/ai-usecase-tech/?utm_source=kakao&utm_medium=founders&utm_campaign=insight) |
 | How Michelangelo Accelerates Uber’s AI Journey | MLOps | [📄](https://www.uber.com/en-KR/blog/from-predictive-to-generative-ai/) |
 | 쓰기만 했던 개발자가 궁금해서 찾아본 쿠버네티스 내부 | MLOps | [📄 Part 1](https://tech.kakaopay.com/post/jack-k8s-internals-part-1/) / [📄 Part 2](https://tech.kakaopay.com/post/jack-k8s-internals-part-2/) |
-
+| Accuracy/Precision/Recall Visually Explained | Machine Learning | [📄](https://www.evidentlyai.com/classification-metrics/accuracy-precision-recall)
 
